@@ -15,7 +15,7 @@ Ao resolver esse problema, esperamos fornecer insights valiosos para a empresa d
 - Link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
 
 ## Link para o repositório no Github
-- Link: https://github.com/DiegoIacabo/2TDS_IA_Challenge.git
+- Link: https://github.com/DiegoIacabo/2TDS_IA_Challenge
 
 ## Link para o vídeo
-- Link: https://www.youtube.com/watch?v=T8NSWt8pShM
+- Link: https://www.youtube.com/watch?v=-VV406JYrrI
